@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Miche, Paolo or Michepaolo (call me as you prefer)👋
 
 <!--
 **michepaolo/michepaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 📚 I'm currently finishing my studies in Computer Engineering
+ - 🌱 I’m currently learning Computational Intelligence, Information System Security, Software Engineering II and System Device Programming
+ - 👯 I’m looking for someone to create a group for Computational Intelligence!! And also studying in general.
+ - ⚾ I'm a baseball player and this year me and my team won the Serie B championship!!
+ - ⚡ Fun fact: I chose Computer Engineering at university without having programmed even once in my life! (I did a good choice...)
