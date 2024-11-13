@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 📚 I'm currently finishing my studies in Computer Engineering
+ - 📚 I'm currently finishing my studies in Computer Engineering at Politecnico of Turin
  - 🌱 I’m currently learning Computational Intelligence, Information System Security, Software Engineering II and System Device Programming
- - 👯 I’m looking for someone to create a group for Computational Intelligence!! And also studying in general.
  - ⚾ I'm a baseball player and this year me and my team won the Serie B championship!!
  - ⚡ Fun fact: I chose Computer Engineering at university without having programmed even once in my life! (I did a good choice...)
